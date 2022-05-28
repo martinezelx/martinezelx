@@ -7,8 +7,6 @@ Hi, welcome to my degen github!.
 
 linkEdin.equals("https://www.linkedin.com/in/martinez21/");
 
-Stacks = [Java 17, Spring Framework, SQL, MongoDB]
-Stacks in progress = [Solidity, JavaScript, Python]
+Stacks = [Java 17, Spring Framework, SQL, MongoDB] / Stacks in progress = [Solidity, JavaScript, Python]
 
-Languages = [Spanish]
-Languages in progress = [English]
+Languages = [Spanish] / Languages in progress = [English]
