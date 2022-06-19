@@ -3,14 +3,14 @@ martinezelx/martinezelx is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, welcome to my github!.
+# Hi, welcome to my github!.
 
-linkEdin.equals("https://www.linkedin.com/in/martinez21/");
+- linkEdin.equals("https://www.linkedin.com/in/martinez21/");
 
-stacks = [Java 17, Spring Framework, SQL, MongoDB];
+- stacks = [Java 17, Spring Framework, SQL, MongoDB];
 
-stacksInProgress = [Solidity, JavaScript, Python];
+- stacksInProgress = [Solidity, JavaScript, Python];
 
-languages = [Spanish];
+- languages = [Spanish];
 
-languagesInProgress = [English];
+- languagesInProgress = [English];
