@@ -62,28 +62,6 @@ I've worked on financial platforms, internal retail systems, cloud-based service
 
 ---
 
-### Featured repositories
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [inditex-backend-challenge](https://github.com/martinezelx/inditex-backend-challenge) | Backend challenge focused on Java engineering practices. | Java |
-| [smart-mow-drive](https://github.com/martinezelx/smart-mow-drive) | Backend proof of concept for a technical challenge. | Java |
-| [project-iobank](https://github.com/martinezelx/project-iobank) | Spring Boot REST API that simulates a small banking system. | Java, Spring Boot |
-| [project-kotlin-api-rest-stores](https://github.com/martinezelx/project-kotlin-api-rest-stores) | REST API for store management. | Kotlin, Spring Boot |
-| [project-solidity-token-mzc](https://github.com/martinezelx/project-solidity-token-mzc) | Own token implementation on BNB Chain testnet. | Solidity |
-| [project-phyton-blockchain](https://github.com/martinezelx/project-phyton-blockchain) | Proof-of-work blockchain implementation. | Python |
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=martinezelx&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezelx&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### Currently interested in
 
 - Backend architecture and scalable APIs
